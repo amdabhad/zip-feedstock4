@@ -1,1 +1,2 @@
-# zip-feedstock4
+# zip-feedstock
+zip recipe
